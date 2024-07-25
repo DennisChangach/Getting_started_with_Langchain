@@ -1,0 +1,8 @@
+Query Transalation sits at the first-stage of an advanced RAG pipeline.
+The goal is to take a user's query and transform in some way to improve retrieval.
+- User's query can be ambigous or poorly written  - won't be able to retrive the relevant documents from semantic search
+
+
+Examples: Reset password question.
+
+Poultry Farming: What is poultry farming?
